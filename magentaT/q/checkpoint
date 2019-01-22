@@ -1,0 +1,5 @@
+model_checkpoint_path: "q.ckpt-100000"
+all_model_checkpoint_paths: "q-0"
+all_model_checkpoint_paths: "q.ckpt-50000"
+all_model_checkpoint_paths: "q-50000"
+all_model_checkpoint_paths: "q.ckpt-100000"
